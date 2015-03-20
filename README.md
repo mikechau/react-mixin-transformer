@@ -1,5 +1,7 @@
 # react-mixin-transformer
 
+[![npm version](https://badge.fury.io/js/react-mixin-transformer.svg)](http://badge.fury.io/js/react-mixin-transformer)
+
 `react-mixin-transformer` is a transformer for use with `webpack` and
 `esprima-loader`. It allows you to pass in an array of `mixins` that you want
 to inject into all of your `React` `components.`
