@@ -132,7 +132,7 @@ var ReactMixinTransformer = {
     var debug = this.debug;
     this.mixins.forEach(function(mixin) {
       if (debug) {
-        console.log("Injecting Mixin: " + mixin);
+        console.log('Injecting Mixin: ' + mixin);
       }
       property.value.elements.push(buildReactMixinElement(mixin));
     });
@@ -146,10 +146,10 @@ var ReactMixinTransformer = {
 
     var debug = this.debug;
     if (debug) {
-      console.log("Injecting New Mixins: " + this.mixins.join(', '));
+      console.log('Injecting New Mixins: ' + this.mixins.join(', '));
     }
 
-    properties.push(reactMixinProperty);
+    properties.unshift(reactMixinProperty);
   }
 };
 
