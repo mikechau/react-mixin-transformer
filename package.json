@@ -1,0 +1,37 @@
+{
+  "name": "react-mixin-transformer",
+  "version": "0.0.1",
+  "description": "AST Transformer via Esprima for injecting mixins into your React components.",
+  "main": "react-mixin-transformer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikechau/react-mixin-transformer"
+  },
+  "keywords": [
+    "esprima",
+    "react",
+    "mixins",
+    "ast",
+    "transformer",
+    "esprima-loader",
+    "webpack"
+  ],
+  "author": "Mike Chau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikechau/react-mixin-transformer/issues"
+  },
+  "homepage": "https://github.com/mikechau/react-mixin-transformer",
+  "files": [
+     "README.md",
+     "react-mixin-transformer.js"
+   ],
+  "engines": {
+     "node": ">=0.10.0"
+   },
+  "dependencies": {},
+  "readmeFilename": "README.md"
+}
