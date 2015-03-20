@@ -68,5 +68,5 @@ It is recommended you make the `mixins` that you want to inject available via
 
 ## Special Thanks
 
-- @iamdustan, for `esprima-loader` and the pointers.
-- @gurdasnijor, for the great intro about `AST` transformations at React Conf.
+- [@iamdustan](https://github.com/iamdustan), for `esprima-loader` and the pointers.
+- [@gurdasnijor](https://github.com/gurdasnijor), for the great intro about `AST` transformations at React Conf.
