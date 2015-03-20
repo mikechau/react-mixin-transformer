@@ -65,6 +65,7 @@ It is recommended you make the `mixins` that you want to inject available via
 - [React Conf 2015 - AST Transformations](https://www.youtube.com/watch?v=OZGgVxFxSIs)
 - [estraverse](https://github.com/estools/estraverse)
 - [component-flow-loader](https://github.com/gurdasnijor/component-flow-loader)
+- [reactiflux](https://reactiflux.slack.com/) - Slack for React developers
 
 ## Special Thanks
 
