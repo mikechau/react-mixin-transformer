@@ -10,6 +10,13 @@ to inject into all of your `React` `components.`
 
 - Write tests.
 
+## Install
+
+```
+npm install esprima-loader --save-dev
+npm install react-mixin-transformer --save-dev
+```
+
 ## Usage
 
 ```javascript
